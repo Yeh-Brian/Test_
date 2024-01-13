@@ -1,0 +1,2 @@
+print("ㄏㄏ")
+print("hahaha")
