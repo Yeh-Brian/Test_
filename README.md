@@ -28,3 +28,9 @@ Github存檔流程
 切換執行核心(kernel)
 * vscode右下角可以選擇
 
+想查看某個版本有哪些更動
+* 去Github找到想看的檔案點進去(如: Test_
+/README.md)
+* 點History
+* 點有興趣版本
+* 就可以看到綠色紅色的區域了
