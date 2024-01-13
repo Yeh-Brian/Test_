@@ -1,2 +1,2 @@
 print("ㄏㄏ")
-print("hahaha")
+print("ha")
